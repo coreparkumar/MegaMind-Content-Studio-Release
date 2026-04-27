@@ -34,7 +34,7 @@ That is the point of this repo.
 ## GIF Demo
 
 <p align="center">
-  <img src="./docs/assets/demo-placeholder.svg" alt="Megamind demo placeholder" width="920" />
+  <img src="./assets/Megamind-demo.gif" alt="Megamind demo placeholder" width="920" />
 </p>
 
 <p align="center">
